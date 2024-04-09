@@ -73,7 +73,7 @@ const form = () => {
           )}
          </div>
       <div className="flex flex-col"> 
-        <a href="#" className="text-xs underline mb-2">Leia os termos</a>
+        <a href="https://github.com/jorgesoares2997" className="text-xs underline mb-2">Leia os termos</a>
         <div className="flex gap-2 items-center">
           < input 
             checked={agree}

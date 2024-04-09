@@ -8,7 +8,7 @@ function App() {
      <div className="w-96 mt-4 bg-stone-200 px-4 py-5 rounded-lg">
      <Form/>
      </div>
-    <p className="text-slate-100 text-xs w-96 mt-2 text-center">Ao se inscreverm você passará a receber os nossos e-mails com as melhores dicas, novidades e ofertas.</p>     
+    <p className="text-slate-100 text-xs w-96 mt-2 text-center">Ao se inscrever você passará a receber os nossos e-mails com as melhores dicas, novidades e ofertas.</p>     
     </div>
   )
 }
